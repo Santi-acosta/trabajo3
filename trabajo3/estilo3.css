@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #98cbd6; 
+}
+
+
+.header {
+    background-color: #4b00cc; 
+    color: white;
+    padding: 10px;
+}
+
+.ejer {
+    background-color: gold;
+    color: black;
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 15px;
+    margin-right: 10px;
+}
+
+.title {
+    font-size: 16px;
+}
+
+
+.contenido {
+    padding: 30px;
+}
+
+h1 {
+    color: red;
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px; 
+}
